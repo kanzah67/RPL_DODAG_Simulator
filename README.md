@@ -19,13 +19,13 @@ python main.py
 ## Screenshots
 
 ### GUI Interface
-![GUI](GUI_Interface.png)
+![GUI](Screenshots/GUI_Interface.png)
 
 ### DODAG Formation
-![DODAG](DODAG_Formation.png)
+![DODAG](Screenshots/DODAG_Formation.png)
 
 ### Packet Forwarding
-![Packet](Packet_Forwarding.png)
+![Packet](Screenshots/Packet_Forwarding.png)
 
 ### Simulation Requirements
-![Requirements](Simulation_Requirements.png)
+![Requirements](Screenshots/Simulation_Requirements.png)
