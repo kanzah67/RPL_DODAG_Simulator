@@ -16,3 +16,16 @@ Desktop-based simulator of the RPL routing protocol used in IoT networks.
 
 ## Run Project
 python main.py
+## Screenshots
+
+### GUI Interface
+![GUI](GUI_Interface.png)
+
+### DODAG Formation
+![DODAG](DODAG_Formation.png)
+
+### Packet Forwarding
+![Packet](Packet_Forwarding.png)
+
+### Simulation Requirements
+![Requirements](Simulation_Requirements.png)
